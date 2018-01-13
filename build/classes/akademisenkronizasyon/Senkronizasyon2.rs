@@ -1,0 +1,3 @@
+akademisenkronizasyon.UpdateCikisTarih
+akademisenkronizasyon.Kontrol2
+akademisenkronizasyon.Senkronizasyon2
